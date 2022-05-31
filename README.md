@@ -1,8 +1,7 @@
 <h2 align="center"><strong>👋 Hello! I'm Joshua.</strong></h2>
-<h2 align="center"><strong>Please keep in mind that a lot of what I am working on is currently on my General Assembly organization Github. The link for that is https://git.generalassemb.ly/linjoshua882</strong></h2>
 
-- 🔭 I’m currently working on an NLP/Webscraping project where I'm analyzing subreddit data!
-- 🌱 I’m currently learning about Vectorizing!
+- 🔭 I’m currently working on a deep learning project where I am classifying between authorized users and cybersecurity threats!
+- 🌱 I’m currently learning about unsupervised learning!
 - 💬 Ask me about coding, cooking, or colognes!
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/linjoshua/
 - 😄 Pronouns: he, him, his
