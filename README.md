@@ -1,7 +1,7 @@
 <h2 align="center"><strong>👋 Hello! I'm Joshua. Call me Josh.</strong></h2>
 
-- 🔭 I’m currently working on a deep learning project where I am classifying between authorized users and cybersecurity threats!
-- 🌱 I’m currently learning about neural networks!
+- 🔭 I’m currently working on a cross-collaborative project with the White House Office of Science and Technology Policy where we are creating a platform that will make it easy for underserved governments and small entities to apply for and find relevant grants, under the Bipartisan Infrastructure Law!
+- 🌱 I’m currently learning about bayesian statistics!
 - 💬 Ask me about coding, cooking, or colognes!
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/linjoshua/
 - 😄 Pronouns: he, him, his
