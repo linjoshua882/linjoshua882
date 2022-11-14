@@ -1,7 +1,7 @@
 <h2 align="center"><strong>👋 Hello! I'm Joshua. Call me Josh.</strong></h2>
 
-- 🔭 I’m currently working on a cross-collaborative project with the White House Office of Science and Technology Policy where we are creating a platform that will make it easy for underserved governments and small entities to apply for and find relevant grants, under the Bipartisan Infrastructure Law!
-- 🌱 I’m currently learning about bayesian statistics!
+- 🔭 I’m currently working on dashboards for Chewy!
+- 🌱 I’m currently learning about predictive maintenance!
 - 💬 Ask me about coding, cooking, or colognes!
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/linjoshua/
 - 😄 Pronouns: he, him, his
