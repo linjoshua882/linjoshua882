@@ -1,6 +1,6 @@
 <h2 align="center"><strong>👋 Hello! I'm Joshua. Call me Josh.</strong></h2>
 
-- 🔭 I’m currently working on dashboards for Chewy!
+- 🔭 I’m currently working on data analytics for Chewy!
 - 🌱 I’m currently learning about predictive maintenance!
 - 💬 Ask me about coding, cooking, or colognes!
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/linjoshua/
@@ -26,3 +26,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras&logoColor=E60000)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linjoshua882&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linjoshua882&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linjoshua882&theme=default)
