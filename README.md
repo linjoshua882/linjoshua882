@@ -1,7 +1,7 @@
 <h2 align="center"><strong>👋 Hello! I'm Joshua. Call me Josh.</strong></h2>
 
 - 🔭 I’m currently working on data analytics for Chewy!
-- 🌱 I’m currently learning about predictive maintenance!
+- 🌱 I’m currently learning about quantum computing!
 - 💬 Ask me about coding, cooking, or colognes!
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/linjoshua/
 - 😄 Pronouns: he, him, his
@@ -9,25 +9,16 @@
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-05122A?style=flat&logo=Tableau)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-05122A?style=flat&logo=numpy)&nbsp;
-![SciPy](https://img.shields.io/badge/SciPy-05122A?style=flat&logo=scipy)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
-![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras&logoColor=E60000)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
+#### Analytics
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+
+#### Coding, AI, Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linjoshua882&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linjoshua882&theme=default)
