@@ -26,6 +26,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras&logoColor=E60000)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linjoshua882&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linjoshua882&theme=default)
